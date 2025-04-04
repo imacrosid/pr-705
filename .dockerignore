@@ -1,0 +1,7 @@
+node_modules
+/dist/*
+!/dist/dashboard
+logs
+c2d_storage
+.env.local
+.env
